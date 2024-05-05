@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Naga-Babu-K
+- 👀 I’m interested in exploring patterns in data and deriving meaningful insights...
+- 🌱 I’m currently learning Data Science techniques like machine learning, data visualization, and statistical analysis.
+- 💞️ I’m looking to collaborate on  projects involving predictive analytics or data-driven decision-making...
+- 📫 How to reach me via email at [nagababukatarapu8@gmail.com] or connect with me on LinkedIn [www.linkedin.com/in/nagababukatarapu]....
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Did you know that data scientists spend around 80% of their time cleaning and preparing data before they can analyze it? It's often referred to as the "data wrangling" or "data munging" phase!...
+- 🅾️ Blood Group: O+
+- 
+<!---
+Naga-Babu-K/Naga-Babu-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
